@@ -1,7 +1,6 @@
 import Image from "next/image";
 import React from "react";
 import { pictures } from "../../../utils/Pictures"; // Adjust path as needed
-import OptimizedVideo from "./OptimizedVideo";
 
 export default function Heropage() {
   return (
@@ -51,10 +50,14 @@ export default function Heropage() {
         </div>
 
         {/* Placeholder for more images */}
-        <div className="group relative aspect-video overflow-hidden bg-gray-100 md:col-span-2 lg:col-span-1">
-          <div className="flex items-center justify-center h-full">
-            <OptimizedVideo src="/video.mp4" />
-          </div>
+        <div className="group relative aspect-[3/5] overflow-hidden bg-gray-100">
+          {/* <OptimizedVideo src="/video.mp4" /> */}
+          <Image
+            src="/clean3.jpeg"
+            alt="Portfolio image 3"
+            fill
+            className="object-cover group-hover:scale-110 transition-transform duration-500"
+          />
         </div>
       </div>
 
