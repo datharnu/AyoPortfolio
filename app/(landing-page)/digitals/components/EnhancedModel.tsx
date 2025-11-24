@@ -113,10 +113,10 @@ export default function EnhancedModelHeader() {
         {/* Main Name */}
         <div className="mb-12">
           <h1 className="text-6xl md:text-8xl lg:text-9xl font-extralight tracking-[0.2em] text-gray-900 mb-4 opacity-0 animate-[fadeInUp_0.8s_ease-out_forwards]">
-            SIKIRU
+            CHRIS
           </h1>
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-light tracking-[0.3em] text-gray-700 opacity-0 animate-[fadeInUp_0.8s_ease-out_0.3s_forwards]">
-            AYOMIDE
+            VICTOR
           </h2>
         </div>
 
@@ -131,7 +131,7 @@ export default function EnhancedModelHeader() {
               Height
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              6&apos;1&quot;
+              6&apos;0&quot;
             </div>
           </div>
 
@@ -141,7 +141,7 @@ export default function EnhancedModelHeader() {
               Chest
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              35
+              44.577
             </div>
           </div>
 
@@ -151,7 +151,7 @@ export default function EnhancedModelHeader() {
               Waist
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              34
+              29
             </div>
           </div>
 
@@ -181,7 +181,7 @@ export default function EnhancedModelHeader() {
               Eyes
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              Black
+              Brown
             </div>
           </div>
         </div>

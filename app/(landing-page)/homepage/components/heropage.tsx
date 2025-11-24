@@ -32,7 +32,7 @@ export default function Heropage() {
         {/* Image 1 */}
         <div className="group relative aspect-[3/5] overflow-hidden bg-gray-100">
           <Image
-            src="/photo2.jpg"
+            src="/photo2.jpeg"
             alt="Portfolio image 2"
             fill
             className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -42,7 +42,7 @@ export default function Heropage() {
         {/* Image 2 */}
         <div className="group relative aspect-[3/5] overflow-hidden bg-gray-100">
           <Image
-            src="/photo3.jpg"
+            src="/photo3.jpeg"
             alt="Portfolio image 3"
             fill
             className="object-cover group-hover:scale-110 transition-transform duration-500"
