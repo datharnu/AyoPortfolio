@@ -1,12 +1,12 @@
-import photo1 from "../../public/photo1.jpeg";
-import photo2 from "../../public/photo2.jpeg";
-import photo3 from "../../public/photo3.jpeg";
-import photo4 from "../../public/photo4.jpeg";
-import photo5 from "../../public/photo5.jpeg";
-import photo6 from "../../public/photo6.jpeg";
-import photo8 from "../../public/photo8.jpeg";
-import photo9 from "../../public/photo9.jpeg";
-import photo10 from "../../public/photo10.jpeg";
+import photo1 from "../../public/chidera4.jpeg";
+import photo2 from "../../public/chidera5.jpeg";
+import photo3 from "../../public/chidera6.jpeg";
+import photo4 from "../../public/chidera7.jpeg";
+import photo5 from "../../public/chidera8.jpeg";
+import photo6 from "../../public/chidera9.jpeg";
+import photo8 from "../../public/chidera10.jpeg";
+import photo9 from "../../public/chidera3.jpeg";
+import photo10 from "../../public/chidera2.jpeg";
 import { StaticImageData } from "next/image";
 
 export type Pictures = {

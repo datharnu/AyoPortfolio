@@ -4,37 +4,42 @@ export default function About() {
   return (
     <section className="max-w-3xl mx-auto px-6 py-12 text-center">
       <h2 className="text-2xl md:text-3xl font-semibold mb-6 tracking-tight">
-        About Christian Victor
+        About Chidera
       </h2>
       <p className="text-sm md:text-base leading-relaxed text-gray-700">
         Hailing from <span className="text-black font-medium">Nigeria</span>,{" "}
-        <span className="text-black font-medium">Wobunezi Christian Victor</span> 
-        is an exciting new face in the fashion scene, bringing a bold blend of 
-        confidence, charisma, and contemporary style. Standing at 6 feet tall, 
-        he carries a natural presence that commands attention both on and off 
-        the runway.
-        
+        <span className="text-black font-medium">Chidera</span>{" "}
+        is an international fashion model bringing striking elegance,
+        confidence, and refined versatility to the global stage.
+        With a commanding runway presence and effortless poise, she embodies
+        the modern woman — bold, graceful, and unapologetically sophisticated.
+
         <br />
         <br />
-        Wobunezi made his mark walking for the{" "}
+        Chidera expanded her international footprint in Paris,{" "}
         <span className="font-semibold text-black">
-          Tonye Amakiri Fashion Brand
-        </span>{" "}
-        on September 16th, 2025, showcasing his ability to embody elegance with 
-        precision. Shortly after, he brought his signature energy to the runway 
-        once again for{" "}
-        <span className="font-semibold text-black">
-          Chykeasy String Summer Wear
-        </span>{" "}
-        on November 1st, 2025, further solidifying his growing reputation in the 
-        industry.
-        
+          walking for CELINE
+        </span>,{" "}
+        where she delivered a performance defined by precision,
+        quiet strength, and elevated femininity. Her ability to move
+        seamlessly between high-fashion edge and timeless elegance
+        sets her apart in today’s competitive industry.
+
         <br />
         <br />
-        Known for his unique style, clean movement, and standout catwalk,{" "}
-        <span className="text-black font-medium">Wobunezi Christian Victor</span>{" "}
-        continues to carve a space for himself as one of Nigeria’s rising talents
-        poised to influence the next wave of modern menswear.
+        She is proudly signed with leading agencies across major fashion capitals,
+        including <span className="font-semibold text-black">Oui Management (Paris)</span>,{" "}
+        <span className="font-semibold text-black">Storm Model Management (London)</span>,{" "}
+        <span className="font-semibold text-black">Brave Model Management (Milan)</span>, and{" "}
+        <span className="font-semibold text-black">Ford Model Management (New York & Spain)</span>.
+
+        <br />
+        <br />
+        Known for her clean walk, expressive presence, and strong editorial
+        energy, <span className="text-black font-medium">Chidera</span>{" "}
+        continues to build momentum across Paris, London, Milan,
+        and New York as one of Nigeria’s rising international talents
+        shaping the future of global fashion.
       </p>
     </section>
   );

@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
-import photo1 from "../../../public/clean.jpeg";
-import photo2 from "../../../public/clean2.jpeg";
-import photo4 from "../../../public/digital1.jpeg";
-import photo3 from "../../../public/clean4.jpeg";
+import photo1 from "../../../public/polaroid.png";
+import photo2 from "../../../public/polaroid2.png";
+import photo4 from "../../../public/polaroid3.png";
+import photo3 from "../../../public/polaroid4.png";
 import EnhancedModelHeader from "./components/EnhancedModel";
 export default function DigitalsPage() {
   const DigitalsImage = [

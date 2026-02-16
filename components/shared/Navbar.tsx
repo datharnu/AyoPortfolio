@@ -22,7 +22,7 @@ export default function Navbar() {
       <div className="flex justify-between items-center p-5 lg:px-20  ">
         <Logo />
         <h1 className="uppercase  text-2xl lg:text-4xl font-bold">
-         CHRIS VICTOR
+          CHIDERA FRANCESCA
         </h1>
 
         {/* Hamburger Menu Button - Only on mobile */}

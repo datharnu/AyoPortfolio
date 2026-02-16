@@ -113,10 +113,10 @@ export default function EnhancedModelHeader() {
         {/* Main Name */}
         <div className="mb-12">
           <h1 className="text-6xl md:text-8xl lg:text-9xl font-extralight tracking-[0.2em] text-gray-900 mb-4 opacity-0 animate-[fadeInUp_0.8s_ease-out_forwards]">
-            CHRIS
+            CHIDERA
           </h1>
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-light tracking-[0.3em] text-gray-700 opacity-0 animate-[fadeInUp_0.8s_ease-out_0.3s_forwards]">
-            VICTOR
+            FRANCESCA
           </h2>
         </div>
 
@@ -131,17 +131,17 @@ export default function EnhancedModelHeader() {
               Height
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              6&apos;0&quot;
+              5&apos;11&quot;
             </div>
           </div>
 
           {/* Chest */}
           <div className="text-center group">
             <div className="text-xs uppercase tracking-widest text-gray-500 mb-2 group-hover:text-gray-700 transition-colors">
-              Chest
+              Burst
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              44.577
+              30
             </div>
           </div>
 
@@ -151,7 +151,7 @@ export default function EnhancedModelHeader() {
               Waist
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              29
+              24
             </div>
           </div>
 
@@ -161,7 +161,7 @@ export default function EnhancedModelHeader() {
               Shoe
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              EU45
+              EU40
             </div>
           </div>
 
@@ -178,10 +178,10 @@ export default function EnhancedModelHeader() {
           {/* Eyes */}
           <div className="text-center group">
             <div className="text-xs uppercase tracking-widest text-gray-500 mb-2 group-hover:text-gray-700 transition-colors">
-              Eyes
+              Hip
             </div>
             <div className="text-2xl md:text-3xl font-light text-gray-900 group-hover:scale-110 transition-transform">
-              Brown
+              34
             </div>
           </div>
         </div>

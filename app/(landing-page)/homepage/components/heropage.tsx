@@ -17,7 +17,7 @@ export default function Heropage() {
       <div className="mb-16">
         <div className="relative aspect-[16/12] md:aspect-[16/9] overflow-hidden">
           <Image
-            src="/clean.jpeg"
+            src="/polaroid.png"
             alt="Featured portfolio image"
             fill
             className="object-contain object-top hover:scale-110 transition-transform duration-700"
@@ -32,7 +32,7 @@ export default function Heropage() {
         {/* Image 1 */}
         <div className="group relative aspect-[3/5] overflow-hidden bg-gray-100">
           <Image
-            src="/photo2.jpeg"
+            src="/chidera1.jpeg"
             alt="Portfolio image 2"
             fill
             className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -42,7 +42,7 @@ export default function Heropage() {
         {/* Image 2 */}
         <div className="group relative aspect-[3/5] overflow-hidden bg-gray-100">
           <Image
-            src="/photo3.jpeg"
+            src="/chidera2.jpeg"
             alt="Portfolio image 3"
             fill
             className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -53,7 +53,7 @@ export default function Heropage() {
         <div className="group relative aspect-[3/5] overflow-hidden bg-gray-100">
           {/* <OptimizedVideo src="/video.mp4" /> */}
           <Image
-            src="/clean3.jpeg"
+            src="/chidera3.jpeg"
             alt="Portfolio image 3"
             fill
             className="object-cover group-hover:scale-110 transition-transform duration-500"
